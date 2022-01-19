@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @shadfdz
-- 👀 I’m interested in machine learning, data science, computer vision!
-- 🌱 I’m currently learning data engineering and data science.
-- 💞️ I’m looking to collaborate on projects that utilize computer vision and ML.
-- 📫 You can reach me at shadfdz@gmail.com
+Novice data scientist inetersested in machine learning, data science, and computer vision.
+I’m looking to collaborate on projects that utilize computer vision and deep learning.
 
 <!---
 shadfdz/shadfdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
