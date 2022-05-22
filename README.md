@@ -1,4 +1,4 @@
-Novice data scientist with a keen interest in machine learning, deep learning, and computer vision.
+Novice data scientist with an interest in machine learning and big data. Interested in financial data, stocks, and computer vision. 
 
 SDSU Big Data Analytics 21'
 
