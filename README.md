@@ -1,4 +1,4 @@
-Novice data scientist with an interest in machine learning, neural networks, and big data. 
+Data Facilities Engineer
 
 <!---
 shadfdz/shadfdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
